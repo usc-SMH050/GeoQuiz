@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_TextView" />
+    <string name="next_question">Next Question</string>
+    <string name="prev_question">Prev Question</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="textview">TextView</string>
+</resources>
